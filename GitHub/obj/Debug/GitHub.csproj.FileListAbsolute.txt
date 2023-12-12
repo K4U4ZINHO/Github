@@ -1,0 +1,7 @@
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\bin\Debug\GitHub.exe.config
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\bin\Debug\GitHub.exe
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\bin\Debug\GitHub.pdb
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\obj\Debug\GitHub.csproj.AssemblyReference.cache
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\obj\Debug\GitHub.csproj.CoreCompileInputs.cache
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\obj\Debug\GitHub.exe
+C:\Users\L2466\OneDrive - AEBJC\Escola\PSI\Modulo 2\C#\GitHub\GitHub\obj\Debug\GitHub.pdb
